@@ -1,0 +1,12 @@
+C:\Users\mrt_b\Desktop\Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\bin\Debug\Kod S Lokanta Otomasyonu.exe
+C:\Users\mrt_b\Desktop\Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\bin\Debug\Kod S Lokanta Otomasyonu.pdb
+C:\Users\mrt_b\Desktop\Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\obj\x86\Debug\Kod S Lokanta Otomasyonu.exe
+C:\Users\mrt_b\Desktop\Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\obj\x86\Debug\Kod S Lokanta Otomasyonu.pdb
+E:\1 Github\1 Industryolog\1-IA Kod S CSharp Proje\1 Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\obj\x86\Debug\Kod S Lokanta Otomasyonu.exe
+E:\1 Github\1 Industryolog\1-IA Kod S CSharp Proje\1 Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\obj\x86\Debug\Kod S Lokanta Otomasyonu.pdb
+C:\Users\mrt_b\Desktop\Proje Tamamı\Büyük Projeler\1 Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\obj\x86\Debug\Kod S Lokanta Otomasyonu.exe
+C:\Users\mrt_b\Desktop\Proje Tamamı\Büyük Projeler\1 Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\obj\x86\Debug\Kod S Lokanta Otomasyonu.pdb
+C:\Users\mrt_b\Desktop\Proje Tamamı\Büyük Projeler\1 Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\bin\Debug\Kod S Lokanta Otomasyonu.exe
+C:\Users\mrt_b\Desktop\Proje Tamamı\Büyük Projeler\1 Kod S Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\bin\Debug\Kod S Lokanta Otomasyonu.pdb
+E:\03 - Yazılım\06 - Console Projeler\01 Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\obj\x86\Debug\Kod S Lokanta Otomasyonu.exe
+E:\03 - Yazılım\06 - Console Projeler\01 Lokanta Otomasyonu\Kod S Lokanta Otomasyonu\obj\x86\Debug\Kod S Lokanta Otomasyonu.pdb
